@@ -17,7 +17,7 @@ My name's Ian and I'm a May 2025 new graduate from the University of Michigan, w
 - **Description**: Time-of-Flight Sensor with ESP32 and I2C in Arduino, using blob detection to catch complex edge cases of door movement.
 - **Features**: WiFi connectivity, battery-operated system, custom PCB
 
-### Image Denoising with Non-Uniform Noise
+### Image Denoising with Non-Uniform Noise (Private - active research project)
 - **Description**: Modified grayscale K-SVD algorithm for indpendent study, using OMP and Rank-1 SVD. Results are positive with uniform noise but mixed with non-uniform noise.
 - **Possible Future Improvements**: Creating a library for easy use, developing better debugging stats for tuning parameters, and boosting performance with non-uniform noise.
 
@@ -30,4 +30,4 @@ My name's Ian and I'm a May 2025 new graduate from the University of Michigan, w
 - Computer Organization
 - Digital Communication Systems
 
-Feel free to connect with me for collaboration or to discuss any of these topics!
+You can reach me at [isteele@umich.edu](mailto:isteele@umich.edu) to connect or discuss any of these topics!
