@@ -11,11 +11,11 @@ My name's Ian and I'm a May 2025 new graduate from the University of Michigan, w
 
 ### Real-Time Ultrasonic Sensor Defense
 - **Description**: Senior design class project creating and recognizing attack signals on ultrasonic sensors.
-- **Objective**: Demonstrating real-time signal processing skills and highlighting the risks of single-sensor autonomous systems. Redundant systems are safer systems.
+- **Objective**: Demonstrating real-time signal processing skills and highlighting the risks of single-sensor autonomous systems. We were able to recognize attacks but not defend against them fully, indicating that sensors like this need redundancy to make them safer.
 
 ### Door-Mounted Occupancy Tracking System
-- **Description**: Time-of-Flight Sensor with ESP32 and I2C in Arduino, using blob detection to catch complex edge cases of door movement.
-- **Features**: WiFi connectivity, battery-operated system, custom PCB
+- **Description**: Time-of-Flight Sensor with ESP32 and I2C in Arduino, using blob detection to catch complex cases of door movement.
+- **Objective**: Final project for my upper-level system design class. We had to track movement over several simple and edge cases by designing a full system from software to mounting and PCB.
 
 ### Image Denoising with Non-Uniform Noise (Private - active research project)
 - **Description**: Modified grayscale K-SVD algorithm for indpendent study, using OMP and Rank-1 SVD. Results are positive with uniform noise but mixed with non-uniform noise.
